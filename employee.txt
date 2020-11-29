@@ -1,0 +1,5 @@
+firstname surname staffid ppsnumber hours hourlyrate overtimerate taxcredit standardband
+Patricia Pilz 826028 1234567AA 8 12.50 25.00 1.736 100
+Elisabeth Buchsteiner 826029 1234568BB 8 14.05 27.22 2.14 100
+Anna Gstrein 826030 1234568CC 8 14.05 27.22 2.14 100
+Leonie Haunold 826031 1234568DD 8 18.75 22.22 5.42 100
